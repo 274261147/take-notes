@@ -17,7 +17,7 @@
    
 5. 再依次执行一下命令行
    ```
-   1. xattr -d com.apple.quarantine wechattweak-cli
+   1. sudo xattr -d com.apple.quarantine wechattweak-cli
    2. chmod +x wechattweak-cli
    3. sudo ./wechattweak-cli install
    ```
