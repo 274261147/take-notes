@@ -5,7 +5,7 @@
    感谢Sunny Young、Joseph Hau大佬制作提供
 2. 将下载的 **"WeChatTweak-CLI"** 插件放置在文稿或者不会**~~删除~~**的文件夹中
 例如：
-![01wechat20231120](.photo/01wechat20231120.png)
+![01wechat20231120](photo/01wechat20231120.png)
 
 
 
@@ -23,5 +23,5 @@
 5. 执行完成后，再次重启微信
 
 6. 在微信的设置中会增加一个**Tweak**的配置，能在微信设置查看到该配置证明防撤回插件已安装，并已生效。
-   ![02wechat220231120](.photo/02wechat220231120.png)
+   ![02wechat220231120](photo/02wechat220231120.png)
 
