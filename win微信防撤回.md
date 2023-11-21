@@ -1,7 +1,8 @@
 # win微信防撤回
 ###### 使用前，需要将微信退出！！！
 1. 首先现在github上下载注入pc段微信插件小工具
-   跳转页面 "**[微信/QQ/TIM防撤回补丁](https://github.com/huiyadanli/RevokeMsgPatcher)**"
+   跳转页面 **"[微信/QQ/TIM防撤回补丁](https://github.com/huiyadanli/RevokeMsgPatcher)"**
+   
    1)点击 **Releases**   
    ![winwechat0120231121](photo/winwechat0120231121.png)
    2）点击zip包进行下载  
